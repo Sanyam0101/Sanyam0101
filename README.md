@@ -19,8 +19,6 @@
 <br>
 
 <div align="left">
-  <img src="https://img.freepik.com/premium-vector/laptop-vector_905719-1127.jpg" alt="Laptop Image" width="200" style="float: right; margin-left: 10px;"/>
-
   <p> 👨🏻‍💻 **About Me:** Web Developer| AI/ML developer |  Game Analyst Intern @extern</p>
   <p> ⚡ Check my <a href="#">Website</a></p>
   <p> 📫 How to reach me: <a href="#">Mail me</a> or Connect <a href="#">LinkedIn</a></p>
