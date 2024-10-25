@@ -6,11 +6,20 @@
 </div>
 
 <div align="center">
-    <h2>🔗 Connect with Me</h2>
-    <a href="https://www.linkedin.com/in/YourLinkedIn">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <!-- Add more badges similarly -->
+   <!-- LeetCode Badge -->
+   <a href="https://leetcode.com/YourLeetCodeProfile">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+   </a>
+
+   <!-- LinkedIn Badge -->
+   <a href="https://www.linkedin.com/in/YourLinkedInProfile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
+
+   <!-- Instagram Badge -->
+   <a href="https://www.instagram.com/YourInstagramProfile">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+   </a>
 </div>
 
 <!--
