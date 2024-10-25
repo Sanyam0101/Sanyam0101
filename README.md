@@ -6,21 +6,26 @@
 </div>
 
 <div align="center">
-   <!-- LeetCode Badge -->
-   <a href="https://leetcode.com/YourLeetCodeProfile">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-   </a>
+ <p>
+      <a href="#">Portfolio</a> -
+      <a href="#">LinkedIn</a> -
+      <a href="#">Twitter</a> -
+      <a href="#">Leetcode</a> -
+      <a href="#">Instagram</a> -
+      <a href="#">Contact me</a>
+   </p>
 
-   <!-- LinkedIn Badge -->
-   <a href="https://www.linkedin.com/in/YourLinkedInProfile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-   </a>
-
-   <!-- Instagram Badge -->
-   <a href="https://www.instagram.com/YourInstagramProfile">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-   </a>
+   <img src="https://your-image-url.com/laptop-image" alt="Laptop Image" width="300"/>
 </div>
+
+---
+
+- 👨🏻‍💻 **About Me**: Full-Stack Web Developer | SDE Intern @RDSO  
+- ⚡ Check my [Website](#)
+- 📫 How to reach me: [Mail me](#) or [Connect on LinkedIn](#)
+- 🤝 **Open to**: Collaborations with passionate developers, startups, and open-source communities.
+- 🎯 **2024 Vision**: Dive deeper into React, Next.js, and ace Data Structures & Algorithms.
+ 🎉 **Fun Fact**: I'm always up for networking and love making meaningful connections in the tech world!
 
 <!--
 **345captain/345captain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
