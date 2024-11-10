@@ -28,16 +28,37 @@
   <p> 🎯 **2024 Vision:** Dive deeper into python using AI and NLP,React.js,nodejs and ace Data Structures & Algorithms.</p>
   <p> 🎉 **Fun Fact:** I'm always up for networking and love making meaningful connections in the tech world!</p>
 
-  <h2>Ezyshop – Bringing Every Store to your Door</h2>
-  <p>I've contributed extensively to Ezyshop, a feature-rich e-commerce platform. My work involved backend development, payment integration, and overall system architecture. Check out the live deployment <a href="#">here</a>. This project is a testament to my skills in building scalable, secure, and seamless web solutions for modern e-commerce businesses.</p>
-
 </div>
+<details>
+ <summary>
+    <h2> 
+      <img align="center" src="📃" width="37" /> 
+    Resume
+    </h2>
+</summary>
+
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[Sanyam0101]/[Sanyam0101]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/BTECH-[Gl bajaj institute of technology]-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-[7.08]-EFEEE9?style=for-the-badge"></span>
+ </details>
+
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[Sanyam0101]/[Sanyam0101]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  - **[Your Role] ** at [Company] | [Duration]
+    - [Work Description]
+ </details>
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
+</details>
 
 ## Languages and Tools  
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -130,7 +151,24 @@
 
 <br/>  
 
+### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/Sanyam_Garg?theme=auto&font=baloo&extension=null)
+
+  </div>
+
+  </div>
   
+### 😂Random Joke
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
 
 <br/>  
 
