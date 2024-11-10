@@ -7,12 +7,12 @@
 
 <div align="center">
   <p>
-    <a href="#">Portfolio</a> -
-    <a href="#">LinkedIn</a> -
-    <a href="#">Twitter</a> -
-    <a href="#">LeetCode</a> -
-    <a href="#">Instagram</a> -
-    <a href="#">Contact me</a>
+    <a href="underprocess">Portfolio</a> -
+    <a href="www.linkedin.com/in/sanyam-garg-13598320b">LinkedIn</a> -
+    <a href="https://x.com/SanyamG40299434?t=9qMRcoMeq2zni2b80F7gfQ&s=08">Twitter</a> -
+    <a href="https://leetcode.com/u/B764rARvVG/">LeetCode</a> -
+    <a href="https://youtube.com/@captainisher?feature=shared">Youtube</a> -
+    <a href="gargsanyam217@gmail.com">Contact me</a>
   </p>
 </div>
 
@@ -20,8 +20,9 @@
 
 <div align="left">
   <p> 👨🏻‍💻 **About Me:** Web Developer| AI/ML developer |  Game Analyst Intern @extern</p>
-  <p> ⚡ Check my <a href="#">Website</a></p>
-  <p> 📫 How to reach me: <a href="#">Mail me</a> or Connect <a href="#">LinkedIn</a></p>
+  <p> ⚡ Check my <a href="https://linktr.ee/sanyam_garg">Website</a></p>
+  <p> 📫 How to reach me: <a href="gargsanyam217@gmail.com">Mail me</a> or Connect <a href="www.linkedin.com/in/sanyam-garg-13598320b">LinkedIn</a></p>
+    
   <p> 💬 Ask me about Web Development and AI/ML development.</p>
   <p> 🤝 **Open to:** Collaborations with passionate developers, startups, and open-source communities.</p>
   <p> 🎯 **2024 Vision:** Dive deeper into python using AI and NLP,React.js,nodejs and ace Data Structures & Algorithms.</p>
