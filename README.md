@@ -17,12 +17,9 @@
 </div>
 
 <br>
-<details>
-  <summary><h2> <img align="center"/> 📞Contact Me</h2></summary>
-  <p> You can reach out to me via :<a href="gargsanyam217@gmail.com">📩</a></p>
-</details>
-<div align="left">
-  <p> 👨🏻‍💻 **About Me:** Web Developer| AI/ML developer |  Game Analyst Intern @extern</p>
+
+### ABOUT ME    
+  <p> Web Developer| AI/ML developer |  Game Analyst Intern @extern</p>
   <p> ⚡ Check my <a href="https://linktr.ee/sanyam_garg">Website</a></p>
   <p> 📫 How to reach me: <a href="gargsanyam217@gmail.com">Mail me</a> or Connect <a href="www.linkedin.com/in/sanyam-garg-13598320b">LinkedIn</a></p>
     
@@ -35,8 +32,7 @@
 <details>
  <summary>
     <h2> 
-      <img align="center" src="📃" width="37" /> 
-    Resume
+    📃Resume
     </h2>
 </summary>
 
@@ -52,9 +48,13 @@
     - [Work Description]
  </details>
 </details>
-
 <details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  <summary><h2>  📞Contact Me</h2></summary>
+  <p> You can reach out to me via :<a href="gargsanyam217@gmail.com">📩</a></p>
+</details>
+<div align="left">
+<details>
+  <summary><h2> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h2></summary>
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
   [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
   [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
