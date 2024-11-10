@@ -17,7 +17,10 @@
 </div>
 
 <br>
-
+<details>
+  <summary><h2> <img align="center"/> 📞Contact Me</h2></summary>
+  <p> You can reach out to me via :<a href="gargsanyam217@gmail.com">📩</a></p>
+</details>
 <div align="left">
   <p> 👨🏻‍💻 **About Me:** Web Developer| AI/ML developer |  Game Analyst Intern @extern</p>
   <p> ⚡ Check my <a href="https://linktr.ee/sanyam_garg">Website</a></p>
