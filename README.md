@@ -10,7 +10,7 @@
     <a href="underprocess">Portfolio</a> -
     <a href="www.linkedin.com/in/sanyam-garg-13598320b">LinkedIn</a> -
     <a href="https://x.com/SanyamG40299434?t=9qMRcoMeq2zni2b80F7gfQ&s=08">Twitter</a> -
-    <a href="https://leetcode.com/u/B764rARvVG/">LeetCode</a> -
+    <a href="https://leetcode.com/u/Sanyam_Garg/">LeetCode</a> -
     <a href="https://youtube.com/@captainisher?feature=shared">Youtube</a> -
     <a href="gargsanyam217@gmail.com">Contact me</a>
   </p>
