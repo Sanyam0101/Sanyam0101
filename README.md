@@ -12,7 +12,7 @@
     <a href="https://x.com/SanyamG40299434?t=9qMRcoMeq2zni2b80F7gfQ&s=08">Twitter</a> -
     <a href="https://leetcode.com/u/Sanyam_Garg/">LeetCode</a> -
     <a href="https://youtube.com/@captainisher?feature=shared">Youtube</a> -
-    <a href="gargsanyam217@gmail.com">Contact me</a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gargsanyam217@gmail.com">Contact me</a>
   </p>
 </div>
 
