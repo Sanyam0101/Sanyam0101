@@ -227,5 +227,5 @@
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1wcWhlZWRkY2J4aGRkdzN2ZjlyN3I3cTcxNnNsZmF4NjN6MDdnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnu831s1um2X9ug/giphy.gif"  />
 </div>
 
-<img height="30" alt="visiting me thank iruka" width="100%" src="gif/welcome.svg" />
+<img height="30" alt="visiting me thank iruka" width="100%" src="welcome.svg" />
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
