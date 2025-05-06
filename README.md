@@ -1,4 +1,21 @@
-<h2 align="center">About me</h2>
+<p align="center">
+ <img width="100px" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
+### Hi there 👋 I'm [Sanyam Garg](https://Sanyamgarg.com.np)
+> Software developer/ Data analyst/ Python developer
+
+
+<img src="https://komarev.com/ghpvc/?username=Sanyam0101" alt="Sanyam0101" />
+
+<div>
+ <p>
+I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+
+I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+</p>
+</div><h2 align="center">About me</h2>
 
 ```golang
 package main
@@ -32,7 +49,7 @@ func GetBio() Bio {
 
 <p align="center">
   <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sanyam garg DEV Profile" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
@@ -64,32 +81,41 @@ func GetBio() Bio {
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
-
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam0101&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
+
+<br>
+
+
+## Languages and Tools:
+
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
+
+<br>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="Sanyam0101 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sanyam0101&show_icons=true&theme=synthwave" alt="Sanyam0101 :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
+## Spotify Playing 🎧
 
----
 
-⭐️ From [@AnhellO](https://github.com/AnhellO)
+<div align="center">
+ <img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" align= "center" alt="Spotify Now Playing" width="350" style="float: left;" />(https://open.spotify.com/artist/1oPw456ljh3ZMotvBDOOrY)
+</div>
+
+<br>
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1wcWhlZWRkY2J4aGRkdzN2ZjlyN3I3cTcxNnNsZmF4NjN6MDdnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnu831s1um2X9ug/giphy.gif"  />
+</div>
