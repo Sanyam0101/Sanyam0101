@@ -1,7 +1,12 @@
 [![Masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https;//coder-apr-5.io)
 <p align="center">
 
-### Hi there 👋 I'm [Sanyam Garg](https://Sanyamgarg.com.np)
+<p align="center">
+  <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Sanyam+Garg;I'm+a+Computer+Science+Engineer;I'm+a+Python+-++Developer!+/Data+Analyst;Aspiring+AI+ML;Let's+get+started..." alt="Example Usage - README Typing SVG">
+  </h1>
+</p>
+
 > Software developer/ Data analyst/ Python developer
 
 
@@ -11,21 +16,21 @@
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
 <h3 align="center">✨ My interests:</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Full+Stack+Development;Data+Science" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Analysis;Data+Science" width="auto" height="35"/>
 </p>
 <img align ="right" alt ="Coding" width ="400" src ="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 - 🌱 I’m currently learning **DSA,AI & ML,Database**
 
-- 💬 Ask me about **C,Java,Python,FullStack Dev**
+- 💬 Ask me about **C,Java,Python,*Data Analytics/Scientist*
 
-- 📫 How to reach me **apurbaroy.leo5@gmail.com**
+- 📫 How to reach me **gargsanyam217@gmail.com**
 
 - ⚡ Fun fact **I drink coffee with codes**
 
-- **NASA SPACE APP CHALLENGE WINNER '24 @DURGAPUR**
+- **GDG Google Prix hackthon FINALIST '24 **
 
-- Open Source Contributor **@Gssoc'24**
+- Open Source Contributor **@Gssoc'24** **@SWOC** 
 
 - Ex- Microsoft Learn Student Ambasaddor
 
@@ -217,9 +222,7 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ## Spotify Playing 🎧
-
-
- <img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" align= "center" alt="Spotify Now Playing" width="350" style="float: left;" />(https://open.spotify.com/artist/1oPw456ljh3ZMotvBDOOrY)
+[<img  algin="center" src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" align= "center" alt="Spotify Now Playing" width="350" style="float: left;" />](https://open.spotify.com/artist/1oPw456ljh3ZMotvBDOOrY)
 
 <br>
 
