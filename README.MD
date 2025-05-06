@@ -1,3 +1,11 @@
+[![Masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https;//coder-apr-5.io)
+<p align="center">
+
+<p align="center">
+  <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Sanyam+Garg;I'm+a+Computer+Science+Engineer;I'm+a+Python+-++Developer!+/Data+Analyst;Aspiring+AI+ML;Let's+get+started..." alt="Example Usage - README Typing SVG">
+  </h1>
+</p>
 <div style="background-image: linear-gradient(to right, #282c34, #1e2128); padding: 20px; border-radius: 10px;"> </div>
 <div align="center">
     <h1>
