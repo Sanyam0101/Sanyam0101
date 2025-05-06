@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=345captain .345captain &"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sanyam0101 .Sanyam0101 &"  />
 </div>
 
 ###
