@@ -7,7 +7,7 @@
   </h1>
 </p>
 
-> Software developer/ Data analyst/ Python developer
+> Software developer/ AI/ML engineer/ Python developer
 
 
 <img src="https://komarev.com/ghpvc/?username=Sanyam0101" alt="Sanyam0101" />
@@ -93,11 +93,7 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
       <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
-      <br>Java
-    </td>
+    </td>  
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
@@ -108,7 +104,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
-      <br>AWS
+      <br>AWS(S3,RDS)
     </td>
     <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="c" />
@@ -116,9 +112,6 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
-      <br>Springboot
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
@@ -126,10 +119,6 @@
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40" alt="Laravel" />
-      <br>Expressjs
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
@@ -147,41 +136,21 @@
        <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="tensorflow" />      
       <br>Tensorflow
     </td>
-    <td align="center" width="96">
-        <img src= "https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="unity" />
-      <br>Nextjs
-    </td>
   </tr>
  <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
       <br>WordPress
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" />
       <br>Flutter
-  <td align="center" width="96">
-         <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40" alt="arduino" />
-      <br>Arduino
-    </td>
-              <td align="center" width="96">
+    </td>  
+    <td align="center" width="96">
          <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
       <br>Postman
     </td>
@@ -191,7 +160,7 @@
     </td>
  </tr>
 </table>
-<br><br>
+
 </table>
 <div align = "center">
  
