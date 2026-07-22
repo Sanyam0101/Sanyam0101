@@ -321,9 +321,9 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sanyam0101&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sanyam0101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+
 </div>
----
 
 <!-- ████████████████████████████ ACTIVITY GRAPH ████████████████████████████ -->
 
