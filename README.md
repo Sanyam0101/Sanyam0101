@@ -303,13 +303,12 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanyam0101&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=36C2CE&icon_color=36C2CE&text_color=c9d1d9&ring_color=36C2CE"/>
+<img width="49%" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanyam0101&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=36C2CE&icon_color=36C2CE&text_color=c9d1d9)
+"/>
 
 <img width="49%" src="https://streak-stats.demolab.com/?user=Sanyam0101&hide_border=true&theme=tokyonight&background=0d1117&stroke=36C2CE&ring=36C2CE&fire=FF6B35&currStreakLabel=36C2CE&sideLabels=ffffff&dates=c9d1d9"/>
 
 <br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanyam0101&hide_border=true&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=36C2CE&text_color=c9d1d9&langs_count=10"/>
 
 </div>
 
@@ -321,7 +320,7 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sanyam0101&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+<img width="100%" src="![](https://github-trophies.vercel.app/?username=Sanyam0101)&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
 
 </div>
 
