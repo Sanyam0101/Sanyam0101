@@ -271,13 +271,13 @@ End-to-end automation pipeline for a running travel business. Auto-responds to W
 
 **💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark"/>
 
 <br/>
 
 **🌐 Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,nodejs,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,tailwind&theme=dark"/>
 
 <br/>
 
