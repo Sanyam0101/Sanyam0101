@@ -96,7 +96,7 @@ class SanyamGarg:
         return {
             "email"    : "gargsanyam217@gmail.com",
             "linkedin" : "linkedin.com/in/sanyam-garg-13598320b",
-            "portfolio": "linktr.ee/sanyam_garg",
+            "portfolio": "Sanyam0101.me",
         }
 
     def __repr__(self) -> str:
